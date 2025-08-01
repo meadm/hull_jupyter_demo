@@ -43,9 +43,18 @@ pip install jupyterlab pandas matplotlib
     ```
 
 ## Opening and running the Jupyter Notebook
-1. (assuming you are still in a Open a terminal and type
-   ``` 
-
+1. Navigate to the repo
+   ```
+   cd hull_jupyter_demo
+   ```
+2. Open the notebook
+   ```
+   jupyter lab hull_jupyter_demo_clean.ipynb
+   ```
+   - Note that `hull_jupyter_demo_draft.ipynb` is a draft notebook that contains errors and extraneous code.
+   - A window or tab containing the Jupyter notebook will open in your default internet browser.
+3. Running a cell
+   3. Click in the cell (gray box - see image below) that you want to run   
 
 
 

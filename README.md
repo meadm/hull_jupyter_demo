@@ -53,8 +53,10 @@ pip install jupyterlab pandas matplotlib
    ```
    - Note that `hull_jupyter_demo_draft.ipynb` is a draft notebook that contains errors and extraneous code.
    - A window or tab containing the Jupyter notebook will open in your default internet browser.
-3. Running a cell
-   3. Click in the cell (gray box - see image below) that you want to run   
+3. Running a code cell
+   1. Click in the cell (gray box - a red arrow is pointning to one in the image below) that you want to run
+
+      <img width="700" height="340" alt="Image" src="https://github.com/user-attachments/assets/4cd5b8af-0da7-4e13-88cc-0e523469cae8" />   
 
 
 

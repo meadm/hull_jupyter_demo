@@ -68,6 +68,8 @@ pip install jupyterlab pandas matplotlib
       <img width="700" height="340" alt="Image" src="https://github.com/user-attachments/assets/4cd5b8af-0da7-4e13-88cc-0e523469cae8" />   
    2. Press `shift` + `enter` on your keyboard at the same time to execute the code in the cell
 
-
+## Outputs
+After running all cells (and assuming you didn't change any of the cells) you should have a version of `ortiz_boxplot.png` (example below) in the repo directory.
+<img width="557" height="569" alt="Image" src="https://github.com/user-attachments/assets/fde0233b-b225-48c2-8c19-e0b9c30cb414" />
 
 *(This repo was originally designed as part of a demonstration given to the [Hull Lab](https://hulllab.bmolchem.wisc.edu/dr-christina-hull-2/)'s journal club on 2025-08-14)*

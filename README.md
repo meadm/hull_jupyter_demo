@@ -65,9 +65,12 @@ pip install jupyterlab pandas matplotlib
 3. Running a code cell
    1. Click in the cell (gray box - a red arrow is pointning to one in the image below) that you want to run
 
-      <img width="700" height="340" alt="Image" src="https://github.com/user-attachments/assets/4cd5b8af-0da7-4e13-88cc-0e523469cae8" />   
+      <img width="700" height="300" alt="Image" src="https://github.com/user-attachments/assets/8488af5e-3a86-4651-b718-4789b5030cdc" />   
    2. Press `shift` + `enter` on your keyboard at the same time to execute the code in the cell
 
+## Outputs
+After running all cells (and assuming you didn't change any of the cells) you should have a version of `ortiz_boxplot.png` (example below) in the repo directory.
 
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/16f2069a-1bd2-4ae1-9f1f-9bb63d4cd387" />
 
 *(This repo was originally designed as part of a demonstration given to the [Hull Lab](https://hulllab.bmolchem.wisc.edu/dr-christina-hull-2/)'s journal club on 2025-08-14)*

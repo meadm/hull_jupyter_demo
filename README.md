@@ -1,5 +1,5 @@
 # Welcome to the wonderful world of Python and Jupyter Notebooks!
-This repo contains a Jupyter Notebook (`hull_jupyter_demo_clean.ipynb`) that takes in a modified version of a supplementary table from [Ortiz et al., 2021](https://journals.asm.org/doi/10.1128/mbio.01672-21) and produces a boxplot (`ortiz_boxplot.png`) from it. The overarching goal of the notebook and the other files in this repo is to introduce the user to [Jupyter Notebooks](https://jupyter.org/) and Python in general.
+This repo contains a Jupyter Notebook (`hull_jupyter_demo_clean.ipynb`) that takes a modified version of a supplementary table from [Ortiz et al., 2021](https://journals.asm.org/doi/10.1128/mbio.01672-21) and produces a boxplot (`ortiz_boxplot.png`) from it. The overarching goal of the notebook and the other files in this repo is to introduce the user to [Jupyter Notebooks](https://jupyter.org/), Python, and the command line in general.
 
 This documentation assumes the user is running macOS on their local computer.
 
@@ -25,7 +25,7 @@ This documentation assumes the user is running macOS on their local computer.
         ```
         Replace `<package_name>` with the name of the package you want to check.
        1. If the command returned a ton of text about the package, the package is installed.
-       2. If the command returned a message like `WARNING: Package(s) not found: labyrinth`, you need to install the package using the instructions in the next section.
+       2. If the command returned a message like `WARNING: Package(s) not found: pandas`, you need to install the package using the instructions in the next section.
 ### Installing Dependencies if you don't have them
 ```
 pip install jupyterlab pandas matplotlib

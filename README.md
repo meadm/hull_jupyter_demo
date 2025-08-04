@@ -42,8 +42,17 @@ pip install jupyterlab pandas matplotlib
     git clone https://github.com/meadm/hull_jupyter_demo.git
     ```
 
+### Or download the repo as a zipped folder
+1. On the repo's main page, click `<> Code`
+    - A red arrow is pointing to it in the picture below
+      <img width="1439" height="689" alt="Image" src="https://github.com/user-attachments/assets/30073f78-009f-4586-a6cd-bf5e8e9273d2" />
+2. Click `Download ZIP` in the menu that pops up
+    - A red arrow is pointing to it in the picture below
+      <img width="1439" height="689" alt="Image" src="https://github.com/user-attachments/assets/6ad5f891-1acf-43c0-bf41-26946031633c" />
+3. Place the `.zip` file in your desired directory/folder and unzip it
+
 ## Opening and running the Jupyter Notebook
-1. Navigate to the repo
+1. Navigate into the repo
    ```
    cd hull_jupyter_demo
    ```

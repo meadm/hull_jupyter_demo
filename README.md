@@ -66,7 +66,7 @@ pip install jupyterlab pandas matplotlib
    1. Click in the cell (gray box - a red arrow is pointning to one in the image below) that you want to run
 
       <img width="700" height="340" alt="Image" src="https://github.com/user-attachments/assets/4cd5b8af-0da7-4e13-88cc-0e523469cae8" />   
-
+   2. Press `shift` + `enter` on your keyboard at the same time to execute the code in the cell
 
 
 

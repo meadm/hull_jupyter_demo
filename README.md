@@ -1,5 +1,5 @@
 # Welcome to the wonderful world of Python and Jupyter Notebooks!
-This repo contains a Jupyter Notebook (`hull_jupyter_demo_clean.ipynb`) that takes a modified version of a supplementary table from [Ortiz et al., 2021](https://journals.asm.org/doi/10.1128/mbio.01672-21) and produces a boxplot (`ortiz_boxplot.png`) from it. The overarching goal of the notebook and the other files in this repo is to introduce the user to [Jupyter Notebooks](https://jupyter.org/), Python, and the command line in general.
+This repo contains a Jupyter Notebook (`hull_jupyter_demo_clean.ipynb`) that takes a modified version of a supplementary table from [Ortiz et al., 2021](https://journals.asm.org/doi/10.1128/mbio.01672-21) and produces plots (`ortiz_boxplot.png`, `ortiz_boxplot_dots.png`, and `ortiz_dotplot.png`) from it. The overarching goal of the notebook and the other files in this repo is to introduce the user to [Jupyter Notebooks](https://jupyter.org/), Python, and the command line in general.
 
 This documentation assumes the user is running macOS on their local computer.
 
@@ -69,8 +69,12 @@ pip install jupyterlab pandas matplotlib
    2. Press `shift` + `enter` on your keyboard at the same time to execute the code in the cell
 
 ## Outputs
-After running all cells (and assuming you didn't change any of the cells) you should have a version of `ortiz_boxplot.png` (example below) in the repo directory.
+After running all cells (and assuming you didn't change any of the cells) you should have versions of `ortiz_boxplot.png`, `ortiz_boxplot_dots.png`, and `ortiz_dotplot.png` in the repo directory. Examples of each plot are below.
 
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/16f2069a-1bd2-4ae1-9f1f-9bb63d4cd387" />
+
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/1146efe5-2ed1-4975-8d6c-1bdc18e46082" />
+
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/16831bf5-b2d7-4cec-bf60-13383b69d4e4" />
 
 *(This repo was originally designed as part of a demonstration given to the [Hull Lab](https://hulllab.bmolchem.wisc.edu/dr-christina-hull-2/)'s journal club on 2025-08-14)*
